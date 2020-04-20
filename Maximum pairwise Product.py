@@ -10,3 +10,5 @@ for j in range(len(b)):
     if (b[j]>d and b[j]!=c):
         d=b[j]
 print(c*d)
+
+#BestRunTime
