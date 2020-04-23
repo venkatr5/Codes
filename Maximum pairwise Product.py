@@ -12,3 +12,4 @@ for j in range(len(b)):
 print(c*d)
 
 #BestRunTime
+print("Success")
